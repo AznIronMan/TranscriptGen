@@ -1,0 +1,9 @@
+argparse
+datetime
+os
+moviepy
+pickle
+pydub
+srt
+tkinter
+whisper-timestamped
