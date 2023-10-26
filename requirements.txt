@@ -1,9 +1,13 @@
 argparse
 datetime
-os
+icecream
 moviepy
+os
 pickle
+platform
 pydub
+request
+shutil
 srt
 tkinter
 whisper-timestamped

@@ -170,3 +170,4 @@ logs/
 *_audio_converted.wav
 *_converted.mp4
 *_cache.*
+ffmpeg/
